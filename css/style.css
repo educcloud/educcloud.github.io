@@ -1,0 +1,24 @@
+.logo
+{
+    width: 128px;
+}
+
+header > h1{
+    float: right;
+}
+.jumbotron{
+    background-color: rgb(183, 117, 245);
+    margin-bottom: 5px;
+}
+
+footer{
+    padding: 50px;
+    text-align: center;
+    background-color: rgb(135, 163, 248) ;
+    margin-top: 5px;
+    border-radius: 10px 10px 0 0;
+}
+
+li{
+    margin: 0 87px;
+}
